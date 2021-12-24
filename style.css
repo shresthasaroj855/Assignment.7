@@ -1,0 +1,25 @@
+#boxA{
+    height: 40vh;
+    width: 50%;
+    background-color: gray;
+    margin: 200px auto;
+}
+
+#boxB{
+    height: 10vh;
+    width: 50%;
+    background-color: green;
+    margin-left: 25%;
+}
+#boxC{
+    width: 50%;
+    height: 20vh;
+    background-color: lightskyblue;
+    margin-left: 25%;
+}
+#boxD{
+    width: 50%;
+    height: 10vh;
+    background-color: brown;
+    margin-left: 25%;
+}
